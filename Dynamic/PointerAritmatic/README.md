@@ -24,6 +24,7 @@ First, we need to initialize the pointer and then assign value to the pointer.
 
 ## 2. Memory leak:
 If we allocate heap memory and  do not deallocate the memory, it will produce leak memory(we might run out of the memory):
+
     int *p = new int[5];
     .
     delete []p;
@@ -34,6 +35,7 @@ If we allocate heap memory and  do not deallocate the memory, it will produce le
 
 ## 3. Dangling Pointer:
 Look at follwing main function:
+
     void main(){
         int *p = new int[5];
         fun(p);
