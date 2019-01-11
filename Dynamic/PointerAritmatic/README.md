@@ -5,24 +5,30 @@ It might cause run-time problems:
 3. Dangling pointers
 
 ## 1. Uninitialize pointer:
-`int *p;`
-
-`*p = 25;`
-
+```
+    int *p;
+    *p = 25;
+```
 The pointer is not initialized in the above example. Invalid 
 First, we need to initialize the pointer and then assign value to the pointer.
 
 ### There are three methods to initialize the pointer:
 1. if you have already assigned a variable:
-    `int x = 10;`
-    `int *p;`
-    `p = &x;`
+```
+    int x = 10;
+    int *p;
+    p = &x;
+ ```
 2. Assign some address in hexadecimal codes:
-    `int *p;`
-    `p = (int *) 0x5628;`
+```
+    int *p;
+    p = (int *) 0x5628;
+```
 3. Dynamically assign heap memory to the pointer:
-    `int *p;`
-    `p = new int[5];`
+```
+    int *p;
+    p = new int[5];
+```
 
 ## 2. Memory leak:
 If we allocate heap memory and  do not deallocate the memory, it will produce leak memory(we might run out of the memory):
