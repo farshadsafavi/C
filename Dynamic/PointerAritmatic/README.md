@@ -6,6 +6,7 @@ It might cause run-time problems:
 
 ## 1. Uninitialize pointer:
 `int *p;`
+
 `*p = 25;`
 
 The pointer is not initialized in the above example. Invalid 
