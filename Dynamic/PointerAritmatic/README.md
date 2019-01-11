@@ -5,8 +5,9 @@ It might cause run-time problems:
 3. Dangling pointers
 
 ## 1. Uninitialize pointer:
-int *p;
-*p = 25;
+`int *p;`
+`*p = 25;`
+
 The pointer is not initialized in the above example. Invalid 
 First, we need to initialize the pointer and then assign value to the pointer.
 
