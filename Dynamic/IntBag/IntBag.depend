@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548110812 source:c:\users\farshad\desktop\cpp\dynamic\intbag\main.cpp
+	<iostream>
+	<stdlib.h>
+	<IntBag.h>
+
+1548110482 c:\users\farshad\desktop\cpp\dynamic\intbag\include\intbag.h
+
+1548110588 source:c:\users\farshad\desktop\cpp\dynamic\intbag\src\intbag.cpp
+	<iostream>
+	"IntBag.h"
+
