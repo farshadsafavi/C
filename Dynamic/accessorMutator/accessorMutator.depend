@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548202257 source:c:\users\farshad\desktop\cpp\dynamic\accessormutator\main.cpp
+	<iostream>
+	<Rectangle.h>
+
+1548202076 c:\users\farshad\desktop\cpp\dynamic\accessormutator\include\rectangle.h
+
+1548202527 source:c:\users\farshad\desktop\cpp\dynamic\accessormutator\src\rectangle.cpp
+	<iostream>
+	<Rectangle.h>
+
