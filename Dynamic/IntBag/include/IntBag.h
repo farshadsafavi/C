@@ -7,6 +7,7 @@ class IntBag
     public:
         IntBag();
         IntBag(int capacity);
+        IntBag(const IntBag &otherBag);
         bool add(int value);
         void print();
         virtual ~IntBag();

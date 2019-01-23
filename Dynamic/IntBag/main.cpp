@@ -13,6 +13,10 @@ int main()
         int value = rand() % 100 + 1;
         bag.add(value);
     }
+    cout << "start: " << endl;
     bag.print();
+    IntBag bag2(bag);
+    cout << "start: " << endl;
+    bag2.print();
     return 0;
 }

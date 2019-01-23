@@ -11,6 +11,17 @@ IntBag::IntBag()
     walkPosition = 0;
 }
 
+IntBag::IntBag(const IntBag &otherBag){
+    data = new int[DEFAULT_CAPACITY];
+    capacity = otherBag.capacity;
+    cnt = otherBag.cnt;
+    walkInProgress = otherBag.walkInProgress;
+    walkPosition = otherBag.walkPosition ;
+    for (int i = 0; i < cnt; i++){
+        data[i] = otherBag.data[i];
+    }
+}
+
 IntBag::IntBag(int capacity)
 {
     data = new int[capacity];
