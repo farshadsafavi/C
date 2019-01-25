@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548374021 source:c:\users\farshad\desktop\cpp\dynamic\scoperesolutiondemo\main.cpp
+	<iostream>
+	<Rectangle.h>
+
+1548374004 c:\users\farshad\desktop\cpp\dynamic\scoperesolutiondemo\include\rectangle.h
+
+1548374129 source:c:\users\farshad\desktop\cpp\dynamic\scoperesolutiondemo\src\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
