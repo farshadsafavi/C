@@ -7,14 +7,14 @@ Rectangle::Rectangle()
     breadth = 1;
 }
 
-Rectangle::Rectangle(int l, int b){
-    length = l;
-    breadth = b;
+Rectangle::Rectangle(int length, int breadth){
+    this->length = length;
+    this->breadth = breadth;
 }
 
 Rectangle::Rectangle(Rectangle &r){
-    length = r.length;
-    breadth = r.breadth;
+    this->length = r.length;
+    this->breadth = r.breadth;
 }
 
 Rectangle::~Rectangle()
