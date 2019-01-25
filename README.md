@@ -1,2 +1,23 @@
 # Cpp
 Review Concepts of C++ programming.
+- Pointers
+- Functions
+- Function Overloading
+- Oops Concepts
+- Classes and Objects
+- Constructors
+- Destructors
+- Operator Overloading
+- Inheritance
+- Polymorphism
+- Abstract Classes
+- Function Overriding
+- Friend Members
+- Static Members
+- Inner Classes
+- Templates
+- Exception Handling
+- I/O Streams
+- STL 
+- Lambda Expressions 
+- Features on Modern C++ 11
