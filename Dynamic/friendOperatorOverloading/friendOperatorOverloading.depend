@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548632921 source:c:\users\farshad\desktop\cpp\dynamic\friendoperatoroverloading\main.cpp
+	<iostream>
+	<Complex.h>
+
+1548632704 c:\users\farshad\desktop\cpp\dynamic\friendoperatoroverloading\include\complex.h
+
+1548632934 source:c:\users\farshad\desktop\cpp\dynamic\friendoperatoroverloading\src\complex.cpp
+	"Complex.h"
+	<iostream>
+
