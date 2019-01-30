@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1548810981 source:c:\users\farshad\desktop\cpp\dynamic\rationalnumber\main.cpp
+1548811084 source:c:\users\farshad\desktop\cpp\dynamic\rationalnumber\main.cpp
 	<iostream>
 	<Rational.h>
 
-1548811040 c:\users\farshad\desktop\cpp\dynamic\rationalnumber\include\rational.h
+1548811521 c:\users\farshad\desktop\cpp\dynamic\rationalnumber\include\rational.h
 	<iostream>
 
 1548811006 source:c:\users\farshad\desktop\cpp\dynamic\rationalnumber\src\rational.cpp

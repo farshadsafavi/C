@@ -16,7 +16,13 @@ class Rational
         int getq();
         void setq(int q);
         void setp(int p);
-        friend Rational operator+(Rational r1, Rational r2);
+        Rational operator+(Rational r)
+        {
+            Rational t;
+            t.p=this->p*r.q+this->q*r.p;
+            t.q=this->q*r.q;
+            return t;
+        }
         friend ostream &operator<<(ostream &o, Rational &r);
         virtual ~Rational();
 };

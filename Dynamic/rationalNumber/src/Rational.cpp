@@ -37,13 +37,6 @@ void Rational::setp(int p){
     this->p = p;
 }
 
-Rational operator+(Rational r1, Rational r2){
-    Rational temp;
-    temp.setp(r2.getq() * r1.getp() + r2.getp() *r1.getq());
-    temp.setq(r1.getq()* r2.getq());
-    return temp;
-}
-
 ostream &operator<<(ostream &o, Rational &r1){
     o << r1.getp() << "/" << r1.getq();
     return o;
