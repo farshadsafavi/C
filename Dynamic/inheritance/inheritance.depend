@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548895192 source:c:\users\farshad\desktop\cpp\dynamic\inheritance\main.cpp
+	<iostream>
+	<Derived.h>
+	<Base.h>
+
+1548894858 c:\users\farshad\desktop\cpp\dynamic\inheritance\include\derived.h
+	<Base.h>
+
+1548895026 c:\users\farshad\desktop\cpp\dynamic\inheritance\include\base.h
+
+1548894290 source:c:\users\farshad\desktop\cpp\dynamic\inheritance\src\base.cpp
+	"Base.h"
+	<iostream>
+
+1548895117 source:c:\users\farshad\desktop\cpp\dynamic\inheritance\src\derived.cpp
+	"Derived.h"
+	<iostream>
+
