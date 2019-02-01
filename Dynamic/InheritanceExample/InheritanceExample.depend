@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549052178 source:c:\users\farshad\desktop\cpp\dynamic\inheritanceexample\main.cpp
+	<iostream>
+	<Rectangle.h>
+
+1549055231 source:c:\users\farshad\desktop\cpp\dynamic\inheritanceexample\src\rectangle.cpp
+	"Rectangle.h"
+
+1549052296 c:\users\farshad\desktop\cpp\dynamic\inheritanceexample\include\rectangle.h
+
+1549055231 source:c:\users\farshad\desktop\cpp\dynamic\inheritanceexample\src\cuboid.cpp
+	"Cuboid.h"
+
+1549055307 c:\users\farshad\desktop\cpp\dynamic\inheritanceexample\include\cuboid.h
+	<Rectangle.h>
+
