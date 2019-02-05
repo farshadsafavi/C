@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1549408776 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer2\main.cpp
+	<iostream>
+	<Cuboid.h>
+
+1549408708 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer2\src\cuboid.cpp
+	"Cuboid.h"
+	<iostream>
+
+1549408821 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer2\include\cuboid.h
+	<Rectangle.h>
+
+1549408708 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer2\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1549408708 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer2\include\rectangle.h
+
