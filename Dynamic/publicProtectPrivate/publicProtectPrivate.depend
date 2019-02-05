@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549325312 source:c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\main.cpp
+	<iostream>
+
+1549326072 source:c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\src\child.cpp
+	"Child.h"
+
+1549325710 c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\include\child.h
+	<Parent.h>
+
+1549325579 c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\include\parent.h
+
+1549326412 source:c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\src\grandchild.cpp
+	"GrandChild.h"
+
+1549325969 c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\include\grandchild.h
+	<Child.h>
+
+1549325619 source:c:\users\farshad\desktop\cpp\dynamic\publicprotectprivate\src\parent.cpp
+	"Parent.h"
+
