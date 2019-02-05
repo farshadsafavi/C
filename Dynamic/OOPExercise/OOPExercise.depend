@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1549330642 source:c:\users\farshad\desktop\cpp\dynamic\oopexercise\main.cpp
+	<iostream>
+	<fullTime.h>
+	<PartTime.h>
+
+1549330971 source:c:\users\farshad\desktop\cpp\dynamic\oopexercise\src\employee.cpp
+	"Employee.h"
+
+1549329744 c:\users\farshad\desktop\cpp\dynamic\oopexercise\include\employee.h
+	<iostream>
+
+1549329687 source:c:\users\farshad\desktop\cpp\dynamic\oopexercise\src\fulltime.cpp
+	"FullTime.h"
+
+1549330223 c:\users\farshad\desktop\cpp\dynamic\oopexercise\include\fulltime.h
+	<iostream>
+	<Employee.h>
+
+1549328925 c:\users\farshad\desktop\cpp\dynamic\oopexercise\include\parttime.h
+	<iostream>
+	<Employee.h>
+
+1549328962 source:c:\users\farshad\desktop\cpp\dynamic\oopexercise\src\parttime.cpp
+	"PartTime.h"
+
