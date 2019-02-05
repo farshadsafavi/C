@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549406121 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer\main.cpp
+	<iostream>
+
+1549406340 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer\src\base.cpp
+	"Base.h"
+	<iostream>
+
+1549406203 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer\include\base.h
+
+1549406554 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer\src\derived.cpp
+	"Derived.h"
+	<iostream>
+
+1549406467 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer\include\derived.h
+	<Base.h>
+
