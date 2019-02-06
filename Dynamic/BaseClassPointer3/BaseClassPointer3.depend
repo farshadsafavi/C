@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549496351 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer3\main.cpp
+	<iostream>
+
+1549496364 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer3\src\advancedcar.cpp
+	"AdvancedCar.h"
+	<iostream>
+
+1549496351 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer3\include\advancedcar.h
+	<BasicCar.h>
+
+1549496351 c:\users\farshad\desktop\cpp\dynamic\baseclasspointer3\include\basiccar.h
+
+1549496351 source:c:\users\farshad\desktop\cpp\dynamic\baseclasspointer3\src\basiccar.cpp
+	"BasicCar.h"
+	<iostream>
+
