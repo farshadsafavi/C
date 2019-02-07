@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1549568839 source:c:\users\farshad\desktop\cpp\dynamic\polymorphism\main.cpp
+	<iostream>
+	<Innova.h>
+	<Swift.h>
+
+1549567151 c:\users\farshad\desktop\cpp\dynamic\polymorphism\include\innova.h
+	<Car.h>
+
+1549567960 c:\users\farshad\desktop\cpp\dynamic\polymorphism\include\car.h
+
+1549567151 c:\users\farshad\desktop\cpp\dynamic\polymorphism\include\swift.h
+	<Car.h>
+
+1549567151 source:c:\users\farshad\desktop\cpp\dynamic\polymorphism\src\car.cpp
+	"Car.h"
+	<iostream>
+
+1549567151 source:c:\users\farshad\desktop\cpp\dynamic\polymorphism\src\innova.cpp
+	"Innova.h"
+	<iostream>
+
+1549567933 source:c:\users\farshad\desktop\cpp\dynamic\polymorphism\src\swift.cpp
+	"Swift.h"
+	<iostream>
+
