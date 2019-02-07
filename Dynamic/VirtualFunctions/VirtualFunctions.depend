@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549555841 source:c:\users\farshad\desktop\cpp\dynamic\virtualfunctions\main.cpp
+	<iostream>
+
+1549555861 source:c:\users\farshad\desktop\cpp\dynamic\virtualfunctions\src\base.cpp
+	"Base.h"
+	<iostream>
+
+1549555841 c:\users\farshad\desktop\cpp\dynamic\virtualfunctions\include\base.h
+
+1549555882 source:c:\users\farshad\desktop\cpp\dynamic\virtualfunctions\src\derived.cpp
+	"Derived.h"
+	<iostream>
+
+1549555841 c:\users\farshad\desktop\cpp\dynamic\virtualfunctions\include\derived.h
+	<Base.h>
+
