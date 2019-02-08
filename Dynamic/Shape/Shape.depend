@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1549664793 source:c:\users\farshad\desktop\cpp\dynamic\shape\main.cpp
+	<iostream>
+	<Base.h>
+	<Circle.h>
+	<Rectangle.h>
+	<Cuboid.h>
+
+1549663360 source:c:\users\farshad\desktop\cpp\dynamic\shape\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1549663569 c:\users\farshad\desktop\cpp\dynamic\shape\include\circle.h
+	<Base.h>
+
+1549663178 c:\users\farshad\desktop\cpp\dynamic\shape\include\shape.h
+
+1549664748 source:c:\users\farshad\desktop\cpp\dynamic\shape\src\cuboid.cpp
+	"Cuboid.h"
+	<iostream>
+
+1549663376 c:\users\farshad\desktop\cpp\dynamic\shape\include\cuboid.h
+	<Rectangle.h>
+
+1549664388 c:\users\farshad\desktop\cpp\dynamic\shape\include\rectangle.h
+	<Base.h>
+
+1549664453 source:c:\users\farshad\desktop\cpp\dynamic\shape\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1549663178 source:c:\users\farshad\desktop\cpp\dynamic\shape\src\shape.cpp
+	"Shape.h"
+
+1549663623 c:\users\farshad\desktop\cpp\dynamic\shape\include\base.h
+
+1549663631 source:c:\users\farshad\desktop\cpp\dynamic\shape\src\base.cpp
+	"Base.h"
+
