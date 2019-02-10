@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1549757008 source:c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\main.cpp
+	<iostream>
+	<Test.h>
+
+1549757008 c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\include\test.h
+
+1549757008 source:c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\src\test.cpp
+	"Test.h"
+	<iostream>
+
+1549757469 source:c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\src\my.cpp
+	"My.h"
+	<iostream>
+
+1549757511 c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\include\my.h
+
+1549757459 source:c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\src\your.cpp
+	"your.h"
+
+1549757230 c:\users\farshad\desktop\cpp\dynamic\friendfunctionclass\include\your.h
+	<My.h>
+
