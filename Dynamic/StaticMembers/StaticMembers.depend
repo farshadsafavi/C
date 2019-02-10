@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549840702 source:c:\users\farshad\desktop\cpp\dynamic\staticmembers\src\test.cpp
+	"Test.h"
+
+1549840660 c:\users\farshad\desktop\cpp\dynamic\staticmembers\include\test.h
+
+1549840544 source:c:\users\farshad\desktop\cpp\dynamic\staticmembers\main.cpp
+	<iostream>
+	<Test.h>
+
