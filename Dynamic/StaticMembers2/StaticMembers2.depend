@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1549845970 source:c:\users\farshad\desktop\cpp\dynamic\staticmembers2\main.cpp
+	<iostream>
+
+1549846161 source:c:\users\farshad\desktop\cpp\dynamic\staticmembers2\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1549846138 c:\users\farshad\desktop\cpp\dynamic\staticmembers2\include\student.h
+	<string>
+
