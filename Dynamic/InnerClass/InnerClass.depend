@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550092508 source:c:\users\farshad\desktop\cpp\dynamic\innerclass\main.cpp
+	<iostream>
+
+1550092508 source:c:\users\farshad\desktop\cpp\dynamic\innerclass\src\outer.cpp
+	"Outer.h"
+
+1550092530 c:\users\farshad\desktop\cpp\dynamic\innerclass\include\outer.h
+	<iostream>
+
