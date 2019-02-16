@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1550360176 source:c:\users\farshad\desktop\cpp\dynamic\stackexception\main.cpp
+	<iostream>
+	<Stack.h>
+	<stackoverflow.h>
+	<stackunderflow.h>
+
+1550359176 source:c:\users\farshad\desktop\cpp\dynamic\stackexception\src\stackoverflow.cpp
+	"stackoverflow.h"
+
+1550359212 c:\users\farshad\desktop\cpp\dynamic\stackexception\include\stackoverflow.h
+	<iostream>
+
+1550359882 c:\users\farshad\desktop\cpp\dynamic\stackexception\include\stack.h
+
+1550359749 c:\users\farshad\desktop\cpp\dynamic\stackexception\include\stackunderflow.h
+	<iostream>
+
+1550360099 source:c:\users\farshad\desktop\cpp\dynamic\stackexception\src\stack.cpp
+	"Stack.h"
+	<stackoverflow.h>
+	<stackunderflow.h>
+
+1550359235 source:c:\users\farshad\desktop\cpp\dynamic\stackexception\src\stackunderflow.cpp
+	"stackunderflow.h"
+
